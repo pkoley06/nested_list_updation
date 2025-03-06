@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nested_list_updation.iml" filepath="$PROJECT_DIR$/nested_list_updation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/nested_list_updation_android.iml" filepath="$PROJECT_DIR$/android/nested_list_updation_android.iml" />
+    </modules>
+  </component>
+</project>
